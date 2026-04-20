@@ -9,8 +9,8 @@ The `Fabric Token SDK` provides a collection of APIs and services that streamlin
 
 # Disclaimer
 
-`Fabric Token SDK` has not been audited and is provided as-is, use at your own risk.
-The project will be subject to rapid changes to complete the open-sourcing process, and  the list of features.
+`Fabric Token SDK` has not been audited and is provided as-is; use at your own risk.
+The project will be subject to rapid changes to complete the open-sourcing process, and  the list of feature may change frequentlys.
 
 # Useful Links
  
